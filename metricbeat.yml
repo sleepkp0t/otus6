@@ -99,7 +99,7 @@ output.elasticsearch:
   # Authentication credentials - either API key or username/password.
   #api_key: "id:api_key"
   username: "kibanaadmin"
-  password: "cl-sh8671ZXCASD++12"
+  password: "password12"
 
 # ------------------------------ Logstash Output -------------------------------
 #output.logstash:
